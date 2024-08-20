@@ -1,43 +1,29 @@
-# Project Overview
+# Laser Holder Design
 
-This project consists of a geometric design, likely created using CAD software. The design appears to represent a mechanical component or a schematic for a device with rotational symmetry.
+## Overview:
 
-## Design Description
+This project involves the design of a **laser holder** with adjustable arms. The holder is designed to securely mount a laser and allow for precise positioning. The two adjustable arms can be opened and closed depending on the specific application, providing flexibility in how the laser is aimed or held.
 
-### Components
+## Design:
 
-- **Central Hub:** 
-  - The central part of the design is a circular hub, with an inner circle possibly representing a hole or a bearing. The hub has dimensions indicating a diameter or radius (depending on the interpretation).
-  - The center hub has smaller components extending from it.
+- **Function:**  
+  The central hub is the core of the laser holder, designed to securely mount the laser. It features a circular section in the center, which may be used to hold the laser or connect to a larger assembly. 
 
-- **Blades/Arms:**
-  - The design features four blades or arms extending outward from the central hub.
-  - Each blade is labeled with dimensions that indicate their length, width, and angles relative to the hub and adjacent blades.
+- **Details:**
+  - The hub includes a hole in the center, likely intended for a fastener or a pivot point, allowing the holder to be mounted onto a base or other structures.
+  - The surrounding area of the hub is designed to provide structural integrity and support to the adjustable arms.
 
-- **Measurements:**
-  - The dimensions are shown in some units, possibly inches or centimeters. Key measurements include:
-    - **Length of the arms:** Varies for each arm, with some extending longer and others being shorter.
-    - **Width of the arms:** Consistent at specific sections but tapers as it connects to the central hub.
-    - **Angles:** Between the blades and between specific sections of the arms and the hub.
+### Adjustable Arms
 
-- **Additional Details:**
-  - The diagram includes a grid background, suggesting precise measurements and angles, useful for manufacturing or further design.
+- **Function:**  
+  The two arms extending from the central hub can be adjusted to either open or close, depending on the laser's required position or the specific task at hand. This adjustability makes the holder versatile for different operational setups.
 
-### Possible Applications
+- **Design Specifications:**
+  - **Length of Arms:**  
+    The arms are designed with lengths ranging from approximately 1.54 to 2.98 units
+  - **Width of Arms:**  
+    The arms have varying widths to ensure they can support the weight of the laser while allowing easy adjustment. The widths vary between 0.84 and 1.03 units.
+  - **Angles:**  
+    The arms are positioned at specific angles to the central hub, ensuring stable support when opened or closed. The design allows for smooth movement and locking in place at the desired position.
 
-This design could represent a component in various mechanical systems such as:
-
-- **Mechanical linkage:** Part of a larger machine.
-- **Rotor or Fan Blade:** Possibly for a turbine or an engine.
-- **Structural Component:** For a robotic arm or a piece of industrial machinery.
-
-### Tools Used
-
-- The design appears to have been created in a CAD online software, as indicated by the grid layout and precision of the lines and measurements.
-
-## Future Work
-
-- **Refinement:** The design may require further refinement depending on the application.
-- **Prototyping:** A physical prototype could be created to test the design’s functionality.
-- **Simulation:** Run simulations to analyze stress, strain, and functionality under different conditions.
 
